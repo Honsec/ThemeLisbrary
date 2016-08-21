@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="elevation_dialog">24dp</dimen>
+    <dimen name="elevation_picker">24dp</dimen>
+
+    <dimen name="elevation_nav_drawer">16dp</dimen>
+    <dimen name="elevation_right_drawer">16dp</dimen>
+    <dimen name="elevation_modal_bottom_sheet">16dp</dimen>
+
+    <dimen name="elevation_floating_action_button_pressed">12dp</dimen>
+
+    <!--Sub menu (+1dp for each sub menu)-->
+    <dimen name="elevation_sub_menu">9dp</dimen>
+
+    <dimen name="elevation_bottom_navigation_bar">8dp</dimen>
+    <dimen name="elevation_menu">8dp</dimen>
+    <dimen name="elevation_card_picked_up">8dp</dimen>
+
+
+    <!--Raised button (pressed state)-->
+    <dimen name="elevation_raised_button_pressed">6dp</dimen>
+    <dimen name="elevation_floatingbutton_resting">6dp</dimen>
+    <dimen name="elevation_snackbar">6dp</dimen>
+
+
+    <dimen name="elevation_app_bar">4dp</dimen>
+
+
+    <dimen name="elevation_Refresh_indicator">3dp</dimen>
+    <dimen name="elevation_search_bar_scrollded">3dp</dimen>
+    <dimen name="elevation_quick_entry_scrollded">3dp</dimen>
+
+
+    <dimen name="elevation_card_reset">2dp</dimen>
+    <dimen name="elevation_raised_button_reset">2dp</dimen>
+    <dimen name="elevation_search_bar_reset">2dp</dimen>
+    <dimen name="elevation_quick_entry_reset">2dp</dimen>
+
+    <dimen name="elevation_switch">1dp</dimen>
+
+    
+
+
+</resources>
